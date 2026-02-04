@@ -1,0 +1,1 @@
+import{n as e}from"./index-WIGYyRwd.js";export default e();
